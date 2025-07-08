@@ -1,0 +1,29 @@
+pipeline{
+	agent any
+	tools{
+		dotnet 'dotnet-sdk-9.0'
+	}
+	stages{
+		stage('Checkout'){
+			steps{
+				git 'https://github.com/mertdal/JenkinsDeneme'
+			}
+		}
+		stage('Build'){
+			steps{
+				dir('JenkinsDeneme1'){
+					sh 'dotnet restore'
+					sh 'dotnet build --configuration Release'
+				}
+			}
+		}
+	}
+	post{
+		success{
+			echo 'Build başarıyla tamamlandı.'
+		}
+		failure{
+			echo 'Build tamamlanırken sorun oluştu.'
+		}
+	}
+}
