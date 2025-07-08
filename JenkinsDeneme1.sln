@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDeneme1", "JenkinsDeneme1\JenkinsDeneme1.csproj", "{CF1140E6-56FA-42A5-B8BD-8AB70445F0D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{223DE788-6E03-4546-B718-E559B68FDB54}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1140E6-56FA-42A5-B8BD-8AB70445F0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1140E6-56FA-42A5-B8BD-8AB70445F0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1140E6-56FA-42A5-B8BD-8AB70445F0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1140E6-56FA-42A5-B8BD-8AB70445F0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

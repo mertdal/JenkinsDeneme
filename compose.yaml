@@ -1,0 +1,6 @@
+﻿services:
+  jenkinsdeneme1:
+    image: jenkinsdeneme1
+    build:
+      context: .
+      dockerfile: JenkinsDeneme1/Dockerfile

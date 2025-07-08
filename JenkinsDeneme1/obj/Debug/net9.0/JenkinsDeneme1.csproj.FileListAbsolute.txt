@@ -1,0 +1,14 @@
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/bin/Debug/net9.0/JenkinsDeneme1
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/bin/Debug/net9.0/JenkinsDeneme1.deps.json
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/bin/Debug/net9.0/JenkinsDeneme1.runtimeconfig.json
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/bin/Debug/net9.0/JenkinsDeneme1.dll
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/bin/Debug/net9.0/JenkinsDeneme1.pdb
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.AssemblyInfoInputs.cache
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.AssemblyInfo.cs
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.csproj.CoreCompileInputs.cache
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.dll
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/refint/JenkinsDeneme1.dll
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.pdb
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/JenkinsDeneme1.genruntimeconfig.cache
+/Users/mertdal/Desktop/ASP.NET/JenkinsDeneme1/JenkinsDeneme1/obj/Debug/net9.0/ref/JenkinsDeneme1.dll
