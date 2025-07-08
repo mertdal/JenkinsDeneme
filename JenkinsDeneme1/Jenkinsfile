@@ -20,10 +20,10 @@ pipeline{
 	}
 	post{
 		success{
-			echo 'Build başarıyla tamamlandı.'
+		'Build başarıyla tamamlandı.'
 		}
 		failure{
-			echo 'Build tamamlanırken sorun oluştu.'
+		'Build tamamlanırken sorun oluştu.'
 		}
 	}
 }
