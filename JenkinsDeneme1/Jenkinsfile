@@ -1,8 +1,8 @@
 pipeline{
 	agent any
-	tools{
-		dotnet 'dotnet-sdk-9.0'
-	}
+	//tools{
+	//	dotnet 'dotnet-sdk-9.0'
+	//}
 	stages{
 		stage('Checkout'){
 			steps{
